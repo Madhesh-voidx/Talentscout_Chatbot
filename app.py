@@ -58,7 +58,7 @@ if st.session_state.stage == "greeting":
     st.session_state.stage = "awaiting_name"
 
 if st.session_state.stage == "awaiting_name":
-    prompt = st.chat_input("Enter your full name...")
+    prompt = st.chat_input("Enter your full name..")
     if prompt:
         st.chat_message("user").markdown(prompt)
         st.session_state.messages.append({"role": "user", "content": prompt})

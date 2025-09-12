@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ### Step 3: Configure Your API Key
 Create a file named .env in the root of your project directory and add your llm API key to it.
 
-GEMINI_API_KEY="YOUR_API_KEY_HERE"
+API_KEY="YOUR_API_KEY_HERE"
 
 ###  Usage
 To run the chatbot, execute the following command in your terminal:

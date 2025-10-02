@@ -21,7 +21,7 @@ Ensure you have Python 3.9 or higher installed on your system.
 ### Step 1: Clone the Repository
 Clone this repository to your local machine using Git:
 
-git clone [https://github.com/MADHESH1234/Talentscout_Chatbot.git](https://github.com/MADHESH1234/Talentscout_Chatbot.git)
+git clone [https://github.com/Madhesh-voidx/Talentscout_Chatbot.git](https://github.com/Madhesh-voidx/Talentscout_Chatbot.git)
 cd Talentscout_Chatbot
 
 ### Step 2: Install Dependencies
